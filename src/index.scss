@@ -2,22 +2,18 @@
   font-family: Poppins-Bold;
   src: url("./Resorce/font-family/Poppins-Bold.ttf");
 }
-
 @font-face {
   font-family: Poppins-Light;
   src: url("./Resorce/font-family/Poppins-Light.ttf");
 }
-
 @font-face {
   font-family: Poppins-Medium;
   src: url("./Resorce/font-family/Poppins-Medium.ttf");
 }
-
 @font-face {
   font-family: Poppins-Regular;
   src: url("./Resorce/font-family/Poppins-Regular.ttf");
 }
-
 @font-face {
   font-family: Poppins-SemiBold;
   src: url("./Resorce/font-family/Poppins-SemiBold.ttf");
@@ -25,12 +21,14 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
-/*# sourceMappingURL=index.css.map */

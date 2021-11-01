@@ -1,5 +1,32 @@
-@import './colors';
+@import '../../Style/colors';
 
 .navbar-container{
+    border-bottom: 2px solid $light;
+}
+.navbar{
+    width: 90%;
+    padding: 0!important;
+    margin: 0 auto;
+
+    &-brand{
+        color: $lime!important;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+    &-menu-container{
+        height: 100%;
+    }
+}
+
+.nav-active{
+    height: 100%;
     background-color: $lime;
+}
+.nav-item{
+    padding: 10px 0;
+    border-right: 2px solid $light;
+}
+.nav-item:last-child{
+    border-right: 0;
 }

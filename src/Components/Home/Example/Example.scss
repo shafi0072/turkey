@@ -1,6 +1,13 @@
 @import '../../Style/classes';
 @import '../../Style//colors';
 
+.example-main{
+    background-image: url(../../../Resorce/images/cropped-20180323_183047-2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
 .example-container{
     @extend .container-width;
 }

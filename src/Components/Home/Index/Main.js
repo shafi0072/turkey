@@ -5,6 +5,7 @@ import Service from '../Service/Service';
 
 import About from '../About/About';
 import Example from '../Example/Example';
+import Besion from './../Besion/Besion';
 
 
 const Main = () => {
@@ -13,6 +14,7 @@ const Main = () => {
             <Header/>
             <About/>
             <Service/>
+            <Besion/>
             <Example/>
 
         </div>

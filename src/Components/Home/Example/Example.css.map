@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AAAA,gBAAgB,EDQhB,kBAAkB,CCRF;EACZ,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;CACjB;;AACD,AAAA,aAAa,EDOb,cAAc,CCPD;EACT,aAAa,EAAE,GAAG,CAAC,KAAK,CCPrB,OAAO;CDQb;;ADLD,AAAA,aAAa,CAAA;EACT,gBAAgB,EAAE,0DAA0D;EAC5E,mBAAmB,EAAE,MAAM;EAC3B,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;CAEzB",
+    "sources": [
+        "Example.scss",
+        "../../Style/_classes.scss",
+        "../../Style/_colors.scss",
+        "../../Style/_colors.scss"
+    ],
+    "names": [],
+    "file": "Example.css"
+}

@@ -16,7 +16,8 @@
 
 .ButtonOfSubmission {
   background: #7ECC3C;
-  font-family: Poppins-Medium;
+  color: #fff;
+  font-size: 25px;
   margin-top: 70px;
   padding: 15px 45px;
 }

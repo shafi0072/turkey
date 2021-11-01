@@ -2,9 +2,12 @@ import React from 'react';
 import './Navbar.scss'
 const Navbar = () => {
     return (
-        <div className="navbar-container">
-            <nav className="navbar navbar-expand-lg navbar-light">
+
+    <div className="navbar-container">
+        <div>
+            <nav className="navbar navbar-expand-lg navbar-light ">
                 <a className="navbar-brand" href="#">THE SHARK</a>
+
                 <button
                     className="navbar-toggler"
                     type="button"
@@ -35,6 +38,7 @@ const Navbar = () => {
                 </div>
             </nav>
         </div>
+    </div>
     );
 };
 

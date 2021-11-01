@@ -1,5 +1,24 @@
 .headerBackground {
-  background-image: url(../../../Resorce/images/Rectangle38.png);
-  height: "500px";
+  background-image: url("../../../Resorce/images/Rectangle38.png");
+  height: 1080px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.font-Weight {
+  font-weight: 10;
+}
+
+.items-align {
+  margin-top: 20%;
+}
+
+.ButtonOfSubmission {
+  background: #7ECC3C;
+  color: #fff;
+  font-size: 25px;
+  margin-top: 70px;
+  padding: 15px 45px;
 }
 /*# sourceMappingURL=Header.css.map */

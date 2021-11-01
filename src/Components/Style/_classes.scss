@@ -1,0 +1,9 @@
+@import './colors';
+
+.container-width{
+    width: 90%;
+    margin: 0 auto;
+}
+.title-border{
+    border-bottom: 3px solid $lime;
+}

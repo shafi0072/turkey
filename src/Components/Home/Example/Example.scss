@@ -1,0 +1,9 @@
+@import '../../Style/classes';
+@import '../../Style//colors';
+
+.example-container{
+    @extend .container-width;
+}
+.bottom-border{
+    @extend .title-border;
+}

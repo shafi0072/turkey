@@ -1,12 +1,11 @@
 @import '../../Style/colors';
+@import '../../Style/classes';
 
 .navbar-container{
-    border-bottom: 2px solid $light;
+    border-bottom: 1px solid $light;
 }
 .navbar{
-    width: 90%;
-    padding: 0!important;
-    margin: 0 auto;
+    @extend .container-width;
 
     &-brand{
         color: $lime!important;
@@ -25,7 +24,7 @@
 }
 .nav-item{
     padding: 10px 0;
-    border-right: 2px solid $light;
+    border-right: 1px solid $light;
 }
 .nav-item:last-child{
     border-right: 0;

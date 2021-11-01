@@ -1,9 +1,19 @@
 @import '../../Style/classes';
 @import '../../Style//colors';
-
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url("../../../Resorce/font-family/Poppins-SemiBold.ttf");
+  }
 .about-container{
     @extend .container-width;
 }
 .bottom-border{
     @extend .title-border;
 }
+.greenbottom{
+    border-bottom: 3px solid $lime;
+    width: 30%;
+  }
+  .font-f-sm {
+    font-family: Poppins-SemiBold!important;
+  }

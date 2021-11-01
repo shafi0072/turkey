@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AAAA,gBAAgB,EDIhB,gBAAgB,CCJA;EACZ,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;CACjB;;AACD,AAAA,aAAa,EDGb,cAAc,CCHD;EACT,aAAa,EAAE,GAAG,CAAC,KAAK,CCPrB,OAAO;CDQb;;ADND,UAAU;EACN,WAAW,EAAE,gBAAgB;EAC7B,GAAG,EAAE,wDAAwD;;;AAQjE,AAAA,YAAY,CAAA;EACR,aAAa,EAAE,GAAG,CAAC,KAAK,CEbrB,OAAO;EFcV,KAAK,EAAE,GAAG;CACX;;AACD,AAAA,UAAU,CAAC;EACT,WAAW,EAAE,gBAAgB,CAAA,UAAU;CACxC",
+    "sources": [
+        "About.scss",
+        "../../Style/_classes.scss",
+        "../../Style/_colors.scss",
+        "../../Style/_colors.scss"
+    ],
+    "names": [],
+    "file": "About.css"
+}

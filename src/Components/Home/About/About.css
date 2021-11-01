@@ -1,0 +1,23 @@
+.container-width, .about-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.title-border, .bottom-border {
+  border-bottom: 3px solid #7ECC3C;
+}
+
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url("../../../Resorce/font-family/Poppins-SemiBold.ttf");
+}
+
+.greenbottom {
+  border-bottom: 3px solid #7ECC3C;
+  width: 30%;
+}
+
+.font-f-sm {
+  font-family: Poppins-SemiBold !important;
+}
+/*# sourceMappingURL=About.css.map */

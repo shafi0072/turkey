@@ -3,7 +3,7 @@ import './Navbar.scss'
 const Navbar = () => {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-light navbar-container">
+            <nav className="navbar navbar-expand-lg navbar-light ">
                 <a className="navbar-brand" href="#">Navbar</a>
                 <button
                     className="navbar-toggler"

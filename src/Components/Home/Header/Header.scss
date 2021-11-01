@@ -1,5 +1,22 @@
+$header-img: url('../../../Resorce/images/Rectangle38.png');
+
 .headerBackground{
-    background-image: url(../../../Resorce/images/Rectangle38.png);
-    
-    height: "500px";
+    background-image: $header-img;
+    height: 1080px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.font-Weight{
+    font-weight: 10;
+}
+.items-align{
+    margin-top:20%;
+}
+.ButtonOfSubmission{
+    background: #7ECC3C;
+    font-family: Poppins-Medium;
+    margin-top: 70px;
+    padding: 15px 45px
+;
 }
